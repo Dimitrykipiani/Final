@@ -27,7 +27,7 @@ header li{
 }
 header{
 	background-color: white;
-	font-family: BPG Glaho WEB Caps Regular;
+	font-family: "BPG Glaho WEB Caps", sans-serif;
 }
 .clear{
 	clear: both;
@@ -59,12 +59,12 @@ header a:hover{
 }
 .presenter h4{
 	font-size: 40px;
-	font-family: BPG Glaho WEB Caps Regular;
+	font-family: "BPG Glaho WEB Caps", sans-serif;
 
 }
 .presenter p{
     font-size: 30px;
-    font-family: BPG Nino Mkhedruli Book Regular;
+    font-family: "BPG Nino Mkhedruli Book", sans-serif;
 }
 
 /*bridge1*/
@@ -75,7 +75,7 @@ header a:hover{
 
 .bridge1 h1{
 	font-size: 24px;
-	font-family: BPG Glaho WEB Caps Regular;
+	font-family: "BPG Glaho WEB Caps", sans-serif;
 	text-align: center;
 	margin-bottom: 10px;
 }
@@ -112,12 +112,12 @@ hr{
 }
 .box h2{
     font-size: 18px;
-    font-family: BPG Glaho WEB Caps Regular;
+    font-family: "BPG Glaho WEB Caps", sans-serif;
     margin: 10px 0px;
 }
 .box p{
     font-size: 16px;
-    font-family: BPG Nino Mkhedruli Book Regular;
+    font-family: "BPG Nino Mkhedruli Book", sans-serif;
 }
 article hr{
 	width: 25px;
@@ -166,7 +166,7 @@ article hr{
 }
 .aboutin h1{
 	font-size: 24px;
-	font-family: BPG Glaho WEB Caps Regular;
+	font-family: "BPG Glaho WEB Caps", sans-serif;
 	text-align: left;
 	margin-bottom: 10px;
 }
@@ -175,7 +175,7 @@ article hr{
 }
 .aboutin p{
 	 font-size: 16px;
-    font-family: BPG Nino Mkhedruli Book Regular;
+    font-family: "BPG Nino Mkhedruli Book", sans-serif;
     margin-bottom: 10px;
 }
 .abs{
@@ -200,7 +200,7 @@ article hr{
 }
 .contact h2{
     font-size: 18px;
-    font-family: BPG Glaho WEB Caps Regular;
+    font-family: "BPG Glaho WEB Caps", sans-serif;
     margin: 0px 0px;
     text-align: center;
     padding-top: 60px;
@@ -214,7 +214,7 @@ article hr{
 }
 
 .form{
-	font-family: BPG Nino Mkhedruli Book Regular;
+	font-family: "BPG Nino Mkhedruli Book", sans-serif;
 	width: 550px;
 	margin-left: auto;
 	margin-right: auto;
@@ -282,12 +282,12 @@ footer h5{
    }
    .presenter h4{
 	font-size: 30px;
-	font-family: BPG Glaho WEB Caps Regular;
+	font-family: "BPG Glaho WEB Caps", sans-serif;
 
 }
 .presenter p{
     font-size: 20px;
-    font-family: BPG Nino Mkhedruli Book Regular;
+    font-family: "BPG Nino Mkhedruli Book", sans-serif;
 }
 
 }
@@ -316,12 +316,12 @@ header{
 }
 .presenter h4{
 	font-size: 25px;
-	font-family: BPG Glaho WEB Caps Regular;
+	font-family: "BPG Glaho WEB Caps", sans-serif;
 
 }
 .presenter p{
     font-size: 15px;
-    font-family: BPG Nino Mkhedruli Book Regular;
+    font-family: "BPG Nino Mkhedruli Book", sans-serif;
 }
 .presenter{
 	top:120px;
@@ -351,12 +351,12 @@ header{
    }
    .presenter h4{
 	font-size: 20px;
-	font-family: BPG Glaho WEB Caps Regular;
+	font-family: "BPG Glaho WEB Caps", sans-serif;
 
 }
 .presenter p{
     font-size: 10px;
-    font-family: BPG Nino Mkhedruli Book Regular;
+    font-family: "BPG Glaho WEB Caps", sans-serif;
 }
 .presenter{
 	top:50px;
